@@ -1,0 +1,1 @@
+- Representa una operación a realizar en los elementos de una estructura de objetos. Visitor permite definir una nueva operación sin cambiar las clases de los elementos en los que opera.
